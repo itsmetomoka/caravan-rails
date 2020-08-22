@@ -102,6 +102,11 @@ main {
   float: left;
   margin-right: 30px;
 }
+.single-blog{
+  width: 540px;
+  float: left;
+  margin-right: 30px;
+}
 .blog-headline {
   border-bottom: 8px solid #f7f7f7;
   text-align: center;
